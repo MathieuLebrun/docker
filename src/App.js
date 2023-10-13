@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        <h1>Test docker</h1>
+      </body>
     </div>
   );
 }
