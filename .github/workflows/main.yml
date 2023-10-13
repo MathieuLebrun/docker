@@ -17,4 +17,4 @@ jobs:
     - name: "Creation de l'image pba dev"
       run: docker build -t react_img:v1 .
     - name: "lancement du container dev"
-      run: docker run -p 8185:80 -d  react_img:v1
+      run: docker run -p 3000:3000 -d  react_img:v1
