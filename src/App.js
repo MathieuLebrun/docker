@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <body>
-        <h1>Test docker zerzdsfsdfsd</h1>
+        <h1>Test docker zerzds</h1>
       </body>
     </div>
   );
